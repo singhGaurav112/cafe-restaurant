@@ -1,0 +1,179 @@
+
+.nav{
+
+	background-color: black;
+	padding: 8px;
+	position: fixed;
+	width: 100%;
+	
+}
+
+
+ul{
+	text-decoration: none;
+	display: flex;
+	padding: 20px;
+
+}
+li a{
+	list-style: none;
+	color: white;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: white;
+	color: black;
+	
+}
+*{
+	margin: auto;
+}
+.ig{
+	width: 1341px;
+    height: 440px;
+}
+	
+
+.aa{
+	position: absolute;
+    margin-top: -272px;
+    font-size: 100px;
+    color: white;
+    margin-left: 601px;
+    font-family: math;
+    margin-top: -321px;
+   
+}
+
+.bb{
+	width: 160px;
+    margin-top: -40px;
+    position: absolute;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    padding: 5px 3px;
+}
+.cc{
+	margin-left: 1200px;
+    margin-top: -35px;
+    position: absolute;
+    color: white;
+}
+.dd{
+	background-color: black;
+	color: white;
+	width: 163px;
+	padding: 5px 1px;
+    font-size: 22px;
+    font: message-box;
+}
+.ab{
+	margin-left: 300px;
+    margin-right: 300px;
+}
+.ac{
+	text-align: justify;
+	font-family: monospace;
+    font-size: 18px;
+}
+.ad{
+	text-align: justify;
+	font-family: monospace;
+    font-size: 18px;
+    background-color: whitesmoke;
+    border-left: 8px solid #b3b3b3b5;
+}
+.ae{
+	width: 733px;
+}
+.ar{
+	font-weight: bolder;
+	font-size: 18px;
+}
+.at{
+	font-family: monospace;
+	font-size: 18px;
+}
+.ay{
+	box-shadow: 2px 2px 2px 2px;
+	
+}
+.au{
+	    box-shadow: 0px 3px 10px -1px;
+	    padding: 14px 18px;
+	    margin-top: -14px;
+	    background-color: #fbfbfb80;
+}   
+.ai{
+	font-family: "Inconsolata", sans-serif;
+	color: grey;
+	font-size: 18px;
+}
+.ao{
+	font-family: "Segoe UI", Arial, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+.ap{
+	font-family: "Inconsolata", sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+}
+.as{
+	padding: 13px 10px;
+    width: 716px;
+    font-family: "Inconsolata", sans-serif;
+    font-size: 15px;
+}
+.but{
+	background-color: black;
+    color: white;
+    padding: 12px 16px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.but:hover{
+	background-color: grey;
+	color: black;
+}
+.af{
+	
+	background-color: #f1f1f1;
+	padding: 30px 604px;
+	margin-top: 57px;
+}
+.bd{
+	margin-left: 300px;
+    margin-right: 300px;
+	
+}
+.bf{
+	margin-left: 300px;
+    margin-right: 300px;
+}
+.fr{
+	margin-left: 300px;
+    margin-right: 300px;
+}
+@media screen and (max-width:400px){
+	.nav{
+		flex-direction: column;
+		height: auto;
+		width: 600px;
+	}
+}
+@media screen and (max-width:400px){
+	.fr{
+		font-size: 3rem;
+
+	}
+}
+
+
+
+
+
+
+
